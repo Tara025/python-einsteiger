@@ -7,7 +7,8 @@
 ## Warum Python?
 
 * Einfache, klare Syntax, daher leicht zu lernen
-* Komplette Programmiersprache mit vielen Bibliotheken, kann in vielen Feldern eingesetzt werden, z.B. Webentwicklung, wissenschafltiches Rechnen, Serveradministration, ...
+* Komplette Programmiersprache mit vielen Bibliotheken, kann in vielen Feldern eingesetzt werden, z.B. Webentwicklung, wissenschafltiches Rechnen,    
+  Serveradministration, ...
 * Auf dem Raspberry Pi sehr verbreitet
 * Implementation für Mikroprozessoren existiert
 * ...
@@ -16,7 +17,8 @@
 In dieser Einführung benutzen wir **Python 3**. Immer noch sehr verbreitet ist Python 2, allerdings ist es nicht kompatibel zu Python 3. 
 
 Benötigt werden: 
-* Installation von [Python 3](https://www.python.org/downloads/). Auf den meisten Linux-Systemen (z.B. Raspbian) sind sowohl Python 2 als auch Python 3 standardmäßig installiert.
+* Installation von [Python 3](https://www.python.org/downloads/). Auf den meisten Linux-Systemen (z.B. Raspbian) sind sowohl Python 2 als auch Python 3
+  standardmäßig installiert.
 * Ein Editor, z.B. Gedit, Atom, Sublime, ...
 
 ## Teil 1: Erste Schritte in der Konsole
